@@ -1,0 +1,15 @@
+artifact_uri: file:///home/modelcard/mask2former-resnet101-cnst/Mask2Former/mlruns/0/14f7d9b128ff462ebf875966e1554dc5/artifacts
+end_time: 1713346892470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14f7d9b128ff462ebf875966e1554dc5
+run_name: serious-skunk-159
+run_uuid: 14f7d9b128ff462ebf875966e1554dc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713343122940
+status: 3
+tags: []
+user_id: root
